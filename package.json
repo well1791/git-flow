@@ -1,0 +1,12 @@
+{
+  "name": "git-flow",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:well1791/git-flow.git",
+  "author": "Wellington Mendoza <wellsaint91@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.mjs",
+    "test": "node ./src/index.test.mjs"
+  }
+}
